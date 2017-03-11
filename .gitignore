@@ -1,4 +1,4 @@
 .DS_Store
-config/config.json
+config/config.js
 names.csv
 node_modules
