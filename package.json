@@ -1,0 +1,23 @@
+{
+  "name": "mass-force-unfollow",
+  "version": "1.0.0",
+  "description": "Force a large amount of Twitter users to unfollow you.",
+  "main": "index.js",
+  "repository": "https://github.com/jaredallard/force-unfollow",
+  "author": "Jared Allard <jaredallard@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.5",
+    "babel-eslint": "^7.1.1",
+    "csv": "^1.1.1",
+    "debug": "^2.6.2",
+    "fs-promise": "^2.0.0",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-standard": "^7.0.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1"
+  }
+}
